@@ -6,9 +6,9 @@ const Footer = () => {
       <div className="container">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 pb-14 border-b border-primary-foreground/10">
           <div>
-            <h3 className="font-display font-bold text-2xl mb-4">INT Conference</h3>
+            <h3 className="font-display font-bold text-2xl mb-4">ICSEAPS-AIQC</h3>
             <p className="text-primary-foreground/70 text-sm leading-relaxed mb-6">
-              The annual gathering for founders, operators, and creators shaping the next decade of business.
+              International Conference on Smart Engineering, Agriculture, and Pharmaceutical Sciences using AI & Quantum Computing evi vachey si hero content
             </p>
             <div className="flex gap-3">
               {[Facebook, Twitter, Linkedin, Instagram].map((Icon, i) => (

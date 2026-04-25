@@ -70,7 +70,7 @@ const Hero = () => {
             transition={{ duration: 0.7, delay: 0.4 }}
             className="text-primary-foreground/80 text-lg md:text-xl max-w-2xl mx-auto mb-10"
           >
-            Three days. Twenty-five visionary speakers. One unforgettable gathering of leaders shaping the future of business.
+            International Conference on Smart Engineering, Agriculture, and Pharmaceutical Sciences using AI & Quantum Computing evi vachey si hero content
           </motion.p>
 
           <motion.div
@@ -79,12 +79,12 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.55 }}
             className="flex flex-col sm:flex-row gap-4 justify-center mb-20"
           >
-            <a
+            {/* <a
               href="#pricing"
               className="inline-flex items-center justify-center px-8 py-4 bg-primary-foreground text-primary font-display font-semibold uppercase tracking-wider text-sm hover:bg-primary-glow hover:text-primary-foreground transition-smooth shadow-elegant"
             >
               Buy Your Ticket
-            </a>
+            </a> */}
             <a
               href="#about"
               className="inline-flex items-center justify-center px-8 py-4 border-2 border-primary-foreground/40 text-primary-foreground font-display font-semibold uppercase tracking-wider text-sm hover:bg-primary-foreground/10 transition-smooth"

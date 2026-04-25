@@ -35,7 +35,7 @@ const Navbar = () => {
     >
       <div className="container flex items-center justify-between">
         <a href="#home" className="font-display text-2xl md:text-3xl font-bold text-primary-foreground tracking-tight">
-          INT conference
+          ICSEAPS-AIQC
         </a>
 
         <nav className="hidden lg:flex items-center gap-8">
@@ -51,12 +51,12 @@ const Navbar = () => {
         </nav>
 
         <div className="flex items-center gap-3">
-          <a
+          {/* <a
             href="#pricing"
             className="hidden md:inline-flex items-center justify-center px-6 py-2.5 border-2 border-primary-foreground text-primary-foreground text-sm font-semibold uppercase tracking-wider hover:bg-primary-foreground hover:text-primary transition-smooth"
           >
             Buy Ticket
-          </a>
+          </a> */}
           <button
             onClick={() => setOpen((o) => !o)}
             className="lg:hidden text-primary-foreground p-2"
