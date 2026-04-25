@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 pb-14 border-b border-primary-foreground/10">
           <div>
-            <h3 className="font-display font-bold text-2xl mb-4">Somabesh</h3>
+            <h3 className="font-display font-bold text-2xl mb-4">INT Conference</h3>
             <p className="text-primary-foreground/70 text-sm leading-relaxed mb-6">
               The annual gathering for founders, operators, and creators shaping the next decade of business.
             </p>
@@ -60,7 +60,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-4 h-4 text-primary-glow shrink-0" />
-                hello@somabesh.events
+                drkondurukranthikumar@gmail.com
               </li>
             </ul>
           </div>
@@ -92,7 +92,7 @@ const Footer = () => {
         </div>
 
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-primary-foreground/50">
-          <p>© 2026 Somabesh Conference. All rights reserved.</p>
+          <p>© 2026 INT Conference. All rights reserved.</p>
           <p>Crafted with care · Privacy · Terms</p>
         </div>
       </div>

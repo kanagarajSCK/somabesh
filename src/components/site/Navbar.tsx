@@ -35,7 +35,7 @@ const Navbar = () => {
     >
       <div className="container flex items-center justify-between">
         <a href="#home" className="font-display text-2xl md:text-3xl font-bold text-primary-foreground tracking-tight">
-          Somabesh
+          INT conference
         </a>
 
         <nav className="hidden lg:flex items-center gap-8">
